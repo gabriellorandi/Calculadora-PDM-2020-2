@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private TextView visorTv;
 
-    private final String VALOR_VISOR_TV = visorTv.toString();
+    private final String VALOR_VISOR_TV ="";
 
 
     @Override
